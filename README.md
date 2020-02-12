@@ -1,1 +1,1 @@
-https://Dzhangar.github.io/rsschool-cv/cv
+https://dzhangar.github.io/rsschool-cv/cv
